@@ -2,6 +2,8 @@
 
 MCP Servers let you extend MosAIc with external tools and data sources, so your assistant can help with more than text-only tasks.
 
+<img width="1227" height="760" alt="image" src="https://github.com/user-attachments/assets/eedf9fcf-3e96-4954-a0fa-d3e839328873" />
+
 ## When to use MCP
 
 - You need access to outside systems or data.
