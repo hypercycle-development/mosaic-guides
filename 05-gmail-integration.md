@@ -2,6 +2,8 @@
 
 Connect Gmail in MosAIc to triage inboxes faster, summarize messages, and draft replies more confidently.
 
+<img width="1231" height="759" alt="image" src="https://github.com/user-attachments/assets/238fa352-0235-4b2d-91eb-572d11d79f48" />
+
 ## What this feature helps with
 
 - Summarizing long email threads.
