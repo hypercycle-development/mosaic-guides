@@ -2,6 +2,8 @@
 
 Chat Rooms are useful when you want group collaboration instead of one-on-one chat.
 
+<img width="1230" height="762" alt="image" src="https://github.com/user-attachments/assets/63d4fcb6-4b6e-4051-8b32-460d47b48d20" />
+
 ## What makes Chat Rooms valuable
 
 - Shared context for teams.
