@@ -2,6 +2,9 @@
 
 AI Chat is where most users spend their time in MosAIc. This guide helps you get consistently useful responses.
 
+<img width="1276" height="766" alt="image" src="https://github.com/user-attachments/assets/ecf63df1-f832-42ca-9818-58ea8130600d" />
+
+
 ## What this feature is best for
 
 - Turning messy notes into clear summaries.
