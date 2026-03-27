@@ -2,6 +2,9 @@
 
 Vault lets you store trusted context once, then reuse it across conversations without repeating yourself.
 
+<img width="1272" height="764" alt="image" src="https://github.com/user-attachments/assets/d2c14425-6e4f-4c55-b1c8-d6063da077d2" />
+
+
 ## What to store in Vault
 
 - Project goals and priorities.
