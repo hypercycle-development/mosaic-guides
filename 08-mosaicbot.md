@@ -2,6 +2,8 @@
 
 Mosaic Bot is for users who want proactive help, not just on-demand prompts.
 
+<img width="1229" height="762" alt="image" src="https://github.com/user-attachments/assets/166cec32-7e9d-4e12-8249-cfe45e44b2ae" />
+
 ## Good use cases
 
 - Daily check-ins and reminders.
