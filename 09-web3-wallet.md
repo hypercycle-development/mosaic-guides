@@ -2,6 +2,8 @@
 
 Web3 in MosAIc helps you manage wallets and transfers with a clear interface, but this area needs extra caution.
 
+<img width="1228" height="765" alt="image" src="https://github.com/user-attachments/assets/8c1ae71e-97af-40f8-8639-41910c9d9c65" />
+
 ## What this feature is for
 
 - Viewing wallet addresses and balances.
