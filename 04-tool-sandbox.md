@@ -2,6 +2,8 @@
 
 Tool Sandbox is where you add extra features to MosAIc, while keeping control over what those tools can do.
 
+<img width="1227" height="761" alt="image" src="https://github.com/user-attachments/assets/b6f696d2-3c4c-46ba-a726-3847aa91dfa8" />
+
 ## Why this matters
 
 - You can expand what the assistant can do.
