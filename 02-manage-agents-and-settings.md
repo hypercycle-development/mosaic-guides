@@ -2,6 +2,9 @@
 
 This guide helps you set up MosAIc so responses match your goals, style, and daily workflow.
 
+<img width="1277" height="761" alt="image" src="https://github.com/user-attachments/assets/be2ba050-841f-4fed-bdd6-28b989e646b0" />
+
+
 ## What you can control
 
 - Which agents are active.
