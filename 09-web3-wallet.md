@@ -6,7 +6,7 @@ Web3 in MosAIc helps you manage wallets and transfers with a clear interface, bu
 
 ## What this feature is for
 
-- Viewing wallet addresses and balances.
+- Viewing wallet addresses and balances by talking to your AI agent.
 - Managing saved addresses.
 - Sending transfers carefully with human confirmation.
 
